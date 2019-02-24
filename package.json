@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Ezassefa/friendfinder/issues"
   },
-  "homepage": "https://github.com/Ezassefa/friendfinder#readme"
+  "homepage": "https://github.com/Ezassefa/friendfinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
 }
